@@ -16,6 +16,8 @@ Dashboard admin is a content management for social media admin create with open 
 
 ### This app available on Heroku  
 
+https://kumparan22.herokuapp.com/
+
 
 ## Available Scripts
 
